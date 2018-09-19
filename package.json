@@ -92,7 +92,7 @@
     "lint-staged": "^7.0.0",
     "mobx-react-devtools": "^4.2.15",
     "node-sass": "^4.7.2",
-    "prettier": "^1.11.0",
+    "prettier": "^1.14.3",
     "proxy-polyfill": "^0.1.7",
     "react-test-renderer": "^16.2.0",
     "rollbar": "^2.3.9",
