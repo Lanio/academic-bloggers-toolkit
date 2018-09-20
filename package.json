@@ -95,7 +95,7 @@
     "prettier": "^1.11.0",
     "proxy-polyfill": "^0.1.7",
     "react-test-renderer": "^16.2.0",
-    "rollbar": "^2.3.9",
+    "rollbar": "^2.4.7",
     "rollbar-sourcemap-webpack-plugin": "^2.2.0",
     "sass-loader": "^6.0.6",
     "snapshot-diff": "^0.3.0",
