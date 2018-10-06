@@ -75,7 +75,7 @@
     "awesome-typescript-loader": "^3.5.0",
     "babel-core": "^7.0.0-beta.3",
     "babel-loader": "^8.0.0-beta.0",
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.0",
     "browser-sync-webpack-plugin": "^2.0.1",
     "bundlesize": "^0.16.0",
     "classnames": "^2.2.5",
