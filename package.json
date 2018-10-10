@@ -79,7 +79,7 @@
     "browser-sync-webpack-plugin": "^2.0.1",
     "bundlesize": "^0.16.0",
     "classnames": "^2.2.5",
-    "copy-webpack-plugin": "^4.4.2",
+    "copy-webpack-plugin": "^4.5.3",
     "css-loader": "^0.28.10",
     "custom-event-polyfill": "^0.3.0",
     "enzyme": "^3.3.0",
